@@ -12,7 +12,7 @@ import java.util.Calendar;
  * @author MTBEBAN
  */
 public class testVnDay {
-    public static void main(String[] args) {
+    public static void main(String[] args) {/////// :)))
         System.out.println("hnay la "+VnDay.valueOf(Calendar));
     }
 }

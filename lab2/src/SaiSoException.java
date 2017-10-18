@@ -4,7 +4,7 @@ public class SaiSoException extends Exception {
     public SaiSoException(String so) {
         this.so = so;
     }
-    public String getMessage(){
+    public String getMessage(){///////// :)
          return "gia tri \'"+ so + "\' khong phai so";
     }
 //    public static void main(String[] args) {

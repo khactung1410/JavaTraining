@@ -18,7 +18,7 @@ public enum VnDay {
     static VnDay valueOf(Calendar){
         String type = Calendar.getDisplay(Calendar.DAY_OF_WEEK,Calendar.SHORT,new Locale("vi"));     
         switch(type){
-            case "Th2":return THU_HAI;
+            case "Th2":return THU_HAI;//////////// :))))
             case "Th7":return THU_BAY;
             case "CN":return CHU_NHAT;
         }
