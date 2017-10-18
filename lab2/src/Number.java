@@ -15,7 +15,7 @@ public class Number{
         }catch(NumberFormatException e){
             e.printStackTrace();
         }
-        return -1;
+        return -1;/////////////tung 
     }
     public static void main(String[] args) {
         int number = toNumber("34");
