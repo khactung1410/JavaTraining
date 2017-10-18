@@ -1,1 +1,4 @@
 ABCdef
+duong
+khac
+tung
