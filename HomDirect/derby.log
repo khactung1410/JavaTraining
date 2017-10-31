@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Oct 23 04:21:19 ICT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-45f6-217d-00000523e048 
+on database directory C:\Users\MTBEBAN\Documents\NetBeansProjects\HomDirect\sampledb with class loader sun.misc.Launcher$ExtClassLoader@6d6f6e28 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_144/jre/lib/ext/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\Users\MTBEBAN\Documents\NetBeansProjects\HomDirect
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
